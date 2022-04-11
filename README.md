@@ -7,7 +7,6 @@
 
 [repo link](file:///C:/Users/User/Downloads/WEJHA.pdf)
 
-here is my first portfolio I used HTML and CSS and Pootstrap to write a bit about me
 
 Skills:  HTML / CSS/ researsh skill 
 
